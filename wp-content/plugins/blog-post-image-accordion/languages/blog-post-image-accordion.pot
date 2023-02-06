@@ -1,0 +1,787 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Blog Post Image Accordion\n"
+"POT-Creation-Date: 2023-01-16 20:33+0600\n"
+"PO-Revision-Date: 2023-01-16 20:33+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: blog-post-image-accordion.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: blog-post-image-accordion.php:66
+#, php-format
+msgid "\"%1$s\" requires \"%2$s\" version %3$s or greater."
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: blog-post-image-accordion.php:67 bpiacrdn-boots.php:54
+#: page-settings/blog-post-image-accordion-manager.php:21
+#: widgets/bpiacrdn-imageaccordion.php:16
+msgid "Blog Post Image Accordion"
+msgstr ""
+
+#: blog-post-image-accordion.php:68
+msgid "PHP"
+msgstr ""
+
+#: blog-post-image-accordion.php:72
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: page-settings/blog-post-image-accordion-manager.php:32
+msgid "Settings"
+msgstr ""
+
+#: page-settings/blog-post-image-accordion-manager.php:40
+#: page-settings/blog-post-image-accordion-manager.php:42
+#: widgets/bpiacrdn-imageaccordion.php:108
+#: widgets/bpiacrdn-imageaccordion.php:466
+#: widgets/bpiacrdn-imageaccordion.php:653
+msgid "Title"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:39
+msgid "Layout"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:46
+msgid "Choose Style"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:50
+msgid "Style 1"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:51
+msgid "Style 2"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:52
+msgid "Style 3"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:53
+msgid "Style 4"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:54
+msgid "Style 5"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:55
+msgid "Style 6"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:56
+msgid "Style 7"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:57
+msgid "Style 8"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:58
+msgid "Style 9"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:59
+msgid "Style 10"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:60
+msgid "Style 11"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:61
+msgid "Style 12"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:62
+msgid "Style 13"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:63
+msgid "Style 14"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:64
+msgid "Style 15"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:65
+msgid "Style 16"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:66
+msgid "Style 17"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:67
+msgid "Style 18"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:68
+msgid "Style 19"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:69
+msgid "Style 20"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:76
+msgid "Blog Type"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:80
+msgid "Post"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:81
+msgid "Page"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:90
+msgid "Post Settings"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:97
+msgid "Image Link"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:99
+#: widgets/bpiacrdn-imageaccordion.php:110
+#: widgets/bpiacrdn-imageaccordion.php:124
+#: widgets/bpiacrdn-imageaccordion.php:153
+#: widgets/bpiacrdn-imageaccordion.php:191
+#: widgets/bpiacrdn-imageaccordion.php:200
+#: widgets/bpiacrdn-imageaccordion.php:226
+#: widgets/bpiacrdn-imageaccordion.php:294
+#: widgets/bpiacrdn-imageaccordion.php:316
+#: widgets/bpiacrdn-imageaccordion.php:499
+#: widgets/bpiacrdn-imageaccordion.php:543
+msgid "Show"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:100
+#: widgets/bpiacrdn-imageaccordion.php:111
+#: widgets/bpiacrdn-imageaccordion.php:125
+#: widgets/bpiacrdn-imageaccordion.php:154
+#: widgets/bpiacrdn-imageaccordion.php:201
+#: widgets/bpiacrdn-imageaccordion.php:227
+#: widgets/bpiacrdn-imageaccordion.php:295
+#: widgets/bpiacrdn-imageaccordion.php:317
+#: widgets/bpiacrdn-imageaccordion.php:500
+#: widgets/bpiacrdn-imageaccordion.php:544
+msgid "Hide"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:119
+msgid "Title Link"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:133
+msgid "Title HTML Tag"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:137
+msgid "Div"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:138
+msgid "H1"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:139
+msgid "H2"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:140
+msgid "H3"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:141
+msgid "H4"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:142
+msgid "H5"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:143
+msgid "H6"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:144
+msgid "p"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:151
+#: widgets/bpiacrdn-imageaccordion.php:976
+msgid "Description"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:162
+msgid "Word Length"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:173
+msgid "Word Trim Indicator"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:175
+msgid "......"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:185
+msgid "All Taxo Icons"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:190
+#: widgets/bpiacrdn-imageaccordion.php:240
+#: widgets/bpiacrdn-imageaccordion.php:583
+msgid "None"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:198
+msgid "Publish Date"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:210
+msgid "Date Format"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:212
+#: widgets/bpiacrdn-imageaccordion.php:213
+msgid "j M y"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:224
+#: widgets/bpiacrdn-imageaccordion.php:465
+#: widgets/bpiacrdn-imageaccordion.php:1535
+msgid "Author"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:236
+msgid "Author Indicator"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:241
+msgid "Gravatar"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:242
+msgid "Author Icon"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:252
+msgid "Gravader Size"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:277
+#: widgets/bpiacrdn-imageaccordion.php:330
+#: widgets/bpiacrdn-imageaccordion.php:355
+msgid "Icon"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:292
+#: widgets/bpiacrdn-imageaccordion.php:1788
+msgid "Comment"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:306
+msgid "Action"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:314
+msgid "Status"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:325
+msgid "Select Type"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:329
+msgid "Text"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:340
+msgid "Button"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:342
+msgid "Read More"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:371
+msgid "Post Query"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:385
+msgid "Choose Author"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:393
+#: widgets/bpiacrdn-imageaccordion.php:468
+#: widgets/bpiacrdn-imageaccordion.php:1412
+msgid "Date"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:397
+#: widgets/bpiacrdn-imageaccordion.php:425
+#: widgets/bpiacrdn-imageaccordion.php:464
+msgid "All"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:398
+msgid "Today"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:399
+msgid "Current Month"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:400
+msgid "Coustom"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:407
+msgid "Type 4 Digit Year Only"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:409
+msgid "2022"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:410
+msgid "Type Your Year Only"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:420
+msgid "Select Month"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:426
+msgid "Jan"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:427
+msgid "Feb"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:428
+msgid "Mar"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:429
+msgid "Apr"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:430
+msgid "May"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:431
+msgid "Jun"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:432
+msgid "Jul"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:433
+msgid "Aug"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:434
+msgid "Sep"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:435
+msgid "Oct"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:436
+msgid "Nov"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:437
+msgid "Dec"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:447
+msgid "Day Only (Date)"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:450
+#: widgets/bpiacrdn-imageaccordion.php:451
+#: widgets/bpiacrdn-imageaccordion.php:491
+msgid "00"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:460
+msgid "Order By"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:467
+msgid "ID"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:475
+msgid "Order"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:479
+msgid "Descending"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:480
+msgid "Ascending"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:487
+msgid "Post Per Page"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:497
+#: widgets/bpiacrdn-imageaccordion.php:1263
+msgid "Category"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:508
+msgid "Show Status"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:512
+msgid "Show Multiple Category"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:513
+msgid "Show Main Category"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:532
+msgid "Filter Categories"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:541
+#: widgets/bpiacrdn-imageaccordion.php:1657
+msgid "Tag"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:561
+msgid "Filter Tags"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:572
+#: widgets/bpiacrdn-imageaccordion.php:579
+msgid "Pagination"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:584
+msgid "Number and Text"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:585
+msgid "Number"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:592
+msgid "Items Alignment"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:597
+#: widgets/bpiacrdn-imageaccordion.php:668
+#: widgets/bpiacrdn-imageaccordion.php:809
+#: widgets/bpiacrdn-imageaccordion.php:1277
+msgid "Left"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:601
+#: widgets/bpiacrdn-imageaccordion.php:672
+#: widgets/bpiacrdn-imageaccordion.php:813
+#: widgets/bpiacrdn-imageaccordion.php:840
+msgid "Center"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:605
+#: widgets/bpiacrdn-imageaccordion.php:676
+#: widgets/bpiacrdn-imageaccordion.php:817
+#: widgets/bpiacrdn-imageaccordion.php:1281
+msgid "Right"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:621
+msgid "Next Text"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:623
+msgid "Next »"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:633
+msgid "Prev Text"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:635
+msgid "« Prev"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:663
+msgid "Title Alignment"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:690
+#: widgets/bpiacrdn-imageaccordion.php:858
+#: widgets/bpiacrdn-imageaccordion.php:990
+#: widgets/bpiacrdn-imageaccordion.php:1101
+#: widgets/bpiacrdn-imageaccordion.php:1295
+#: widgets/bpiacrdn-imageaccordion.php:1427
+#: widgets/bpiacrdn-imageaccordion.php:1549
+#: widgets/bpiacrdn-imageaccordion.php:1671
+#: widgets/bpiacrdn-imageaccordion.php:1802
+#: widgets/bpiacrdn-imageaccordion.php:2050
+msgid "Normal"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:704
+#: widgets/bpiacrdn-imageaccordion.php:1004
+#: widgets/bpiacrdn-imageaccordion.php:1115
+#: widgets/bpiacrdn-imageaccordion.php:1309
+#: widgets/bpiacrdn-imageaccordion.php:1441
+#: widgets/bpiacrdn-imageaccordion.php:1563
+#: widgets/bpiacrdn-imageaccordion.php:1685
+#: widgets/bpiacrdn-imageaccordion.php:1816
+#: widgets/bpiacrdn-imageaccordion.php:2064
+msgid "Color"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:714
+#: widgets/bpiacrdn-imageaccordion.php:749
+#: widgets/bpiacrdn-imageaccordion.php:866
+#: widgets/bpiacrdn-imageaccordion.php:912
+#: widgets/bpiacrdn-imageaccordion.php:1014
+#: widgets/bpiacrdn-imageaccordion.php:1049
+#: widgets/bpiacrdn-imageaccordion.php:1125
+#: widgets/bpiacrdn-imageaccordion.php:1168
+#: widgets/bpiacrdn-imageaccordion.php:1319
+#: widgets/bpiacrdn-imageaccordion.php:1354
+#: widgets/bpiacrdn-imageaccordion.php:1451
+#: widgets/bpiacrdn-imageaccordion.php:1486
+#: widgets/bpiacrdn-imageaccordion.php:1573
+#: widgets/bpiacrdn-imageaccordion.php:1608
+#: widgets/bpiacrdn-imageaccordion.php:1695
+#: widgets/bpiacrdn-imageaccordion.php:1730
+#: widgets/bpiacrdn-imageaccordion.php:1826
+#: widgets/bpiacrdn-imageaccordion.php:1861
+#: widgets/bpiacrdn-imageaccordion.php:1927
+#: widgets/bpiacrdn-imageaccordion.php:2074
+#: widgets/bpiacrdn-imageaccordion.php:2109
+msgid "Background"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:725
+#: widgets/bpiacrdn-imageaccordion.php:891
+#: widgets/bpiacrdn-imageaccordion.php:1025
+#: widgets/bpiacrdn-imageaccordion.php:1144
+#: widgets/bpiacrdn-imageaccordion.php:1330
+#: widgets/bpiacrdn-imageaccordion.php:1462
+#: widgets/bpiacrdn-imageaccordion.php:1584
+#: widgets/bpiacrdn-imageaccordion.php:1706
+#: widgets/bpiacrdn-imageaccordion.php:1837
+msgid "Hover"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:739
+#: widgets/bpiacrdn-imageaccordion.php:1039
+#: widgets/bpiacrdn-imageaccordion.php:1158
+#: widgets/bpiacrdn-imageaccordion.php:1344
+#: widgets/bpiacrdn-imageaccordion.php:1476
+#: widgets/bpiacrdn-imageaccordion.php:1598
+#: widgets/bpiacrdn-imageaccordion.php:1720
+#: widgets/bpiacrdn-imageaccordion.php:1851
+msgid "Hover Color"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:762
+#: widgets/bpiacrdn-imageaccordion.php:940
+#: widgets/bpiacrdn-imageaccordion.php:1190
+#: widgets/bpiacrdn-imageaccordion.php:1377
+#: widgets/bpiacrdn-imageaccordion.php:1522
+#: widgets/bpiacrdn-imageaccordion.php:1644
+#: widgets/bpiacrdn-imageaccordion.php:1753
+#: widgets/bpiacrdn-imageaccordion.php:1884
+#: widgets/bpiacrdn-imageaccordion.php:1951
+#: widgets/bpiacrdn-imageaccordion.php:2165
+msgid "Border Radius"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:774
+#: widgets/bpiacrdn-imageaccordion.php:963
+#: widgets/bpiacrdn-imageaccordion.php:1062
+#: widgets/bpiacrdn-imageaccordion.php:1202
+#: widgets/bpiacrdn-imageaccordion.php:1388
+#: widgets/bpiacrdn-imageaccordion.php:1499
+#: widgets/bpiacrdn-imageaccordion.php:1621
+#: widgets/bpiacrdn-imageaccordion.php:1764
+#: widgets/bpiacrdn-imageaccordion.php:1895
+#: widgets/bpiacrdn-imageaccordion.php:1973
+msgid "Padding"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:785
+#: widgets/bpiacrdn-imageaccordion.php:952
+#: widgets/bpiacrdn-imageaccordion.php:1074
+#: widgets/bpiacrdn-imageaccordion.php:1213
+#: widgets/bpiacrdn-imageaccordion.php:1399
+#: widgets/bpiacrdn-imageaccordion.php:1511
+#: widgets/bpiacrdn-imageaccordion.php:1633
+#: widgets/bpiacrdn-imageaccordion.php:1775
+#: widgets/bpiacrdn-imageaccordion.php:1906
+#: widgets/bpiacrdn-imageaccordion.php:1962
+#: widgets/bpiacrdn-imageaccordion.php:2176
+msgid "Margin"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:798
+msgid "Content Style"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:805
+msgid "Horizontal Alignment"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:832
+msgid "Vertical Alignment"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:836
+msgid "Top"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:844
+msgid "Bottom"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:875
+msgid "Content Shadow"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:883
+#: widgets/bpiacrdn-imageaccordion.php:929
+#: widgets/bpiacrdn-imageaccordion.php:1136
+#: widgets/bpiacrdn-imageaccordion.php:1179
+#: widgets/bpiacrdn-imageaccordion.php:1369
+#: widgets/bpiacrdn-imageaccordion.php:1745
+#: widgets/bpiacrdn-imageaccordion.php:1876
+#: widgets/bpiacrdn-imageaccordion.php:1944
+msgid "Border"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:898
+msgid "Shape"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:921
+msgid "Wrap Shadow"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:1087
+msgid "Action Style"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:1226
+msgid "Image Style"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:1233
+msgid "Thumbnail Size"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:1250
+msgid "Image Radius"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:1273
+msgid "Category Alignment"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:1919
+msgid "Box Style"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:1936
+msgid "Box Shadow"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:1986
+msgid "Pagination Style"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:1996
+msgid "Pagination Gap From Top"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:2021
+msgid "Item Gap"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:2085
+msgid "Active"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:2099
+msgid "Active Color"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:2123
+msgid "Box Width"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:2144
+msgid "Box Height"
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:2272
+msgid ", "
+msgstr ""
+
+#: widgets/bpiacrdn-imageaccordion.php:2281
+msgid "No Thumbnail"
+msgstr ""
+
+#: widgets/template/styles.php:70
+msgid "Comment ("
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "www.bwdplugins.com/plugins/blog-post-image-accordion"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"WPoducts Image accordion is an Elementor plugin that has been decorated 19+ "
+"ready-made eye-catching styles. More designs will be included very soon stay "
+"tuned."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Best WP Developer"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "www.bestwpdeveloper.com/"
+msgstr ""
